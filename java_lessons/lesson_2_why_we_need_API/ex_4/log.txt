@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-12-24T18:14:53.614719900Z</date>
+  <millis>1703441693614</millis>
+  <nanos>719900</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>java_lessons.lesson_2_why_we_need_API.ex_4.Main4</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>Writing completed successfully</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-12-24T18:15:17.820177Z</date>
+  <millis>1703441717820</millis>
+  <nanos>177000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>java_lessons.lesson_2_why_we_need_API.ex_4.Main4</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>Writing completed successfully (������� �������� ��� ��������!)</message>
+</record>
+</log>
+���. 24, 2023 8:18:08 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+���. 24, 2023 8:18:21 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+���. 24, 2023 8:27:38 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+���. 24, 2023 8:43:45 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+���. 24, 2023 8:44:02 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+���. 24, 2023 8:53:08 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+���. 24, 2023 8:53:39 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+���. 24, 2023 9:06:08 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+���. 24, 2023 9:06:15 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+���. 24, 2023 9:07:14 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+���. 24, 2023 9:07:50 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+���. 24, 2023 9:08:38 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+���. 24, 2023 9:08:40 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:11:44 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:20:47 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:24:51 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:24:55 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:27:06 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:28:06 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:28:18 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:29:57 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:30:22 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+���. 24, 2023 9:30:30 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:32:00 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:32:10 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:32:24 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:32:25 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:32:34 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:32:36 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:32:46 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:33:13 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:33:47 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:34:03 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:34:23 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:34:24 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:34:55 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:35:17 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:35:56 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:36:20 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:37:32 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:37:59 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:43:02 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:43:34 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:43:55 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:44:00 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:44:05 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:44:17 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:44:29 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:44:50 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 9:59:45 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 10:00:18 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 10:08:10 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 10:32:44 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 10:33:10 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 10:36:05 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Writing completed successfully
+дек. 24, 2023 10:42:02 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Запись в файл прошла успешно
+дек. 24, 2023 10:42:27 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Запись в файл прошла успешно
+дек. 24, 2023 10:47:52 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Запись в файл прошла успешно
