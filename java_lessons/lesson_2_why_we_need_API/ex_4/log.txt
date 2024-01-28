@@ -144,3 +144,5 @@ INFO: Запись в файл прошла успешно
 INFO: Запись в файл прошла успешно
 дек. 24, 2023 10:47:52 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
 INFO: Запись в файл прошла успешно
+дек. 28, 2023 5:25:55 PM java_lessons.lesson_2_why_we_need_API.ex_4.Main4 writeToFile
+INFO: Запись в файл прошла успешно
