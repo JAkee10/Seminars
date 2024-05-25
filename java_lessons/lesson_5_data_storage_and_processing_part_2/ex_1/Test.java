@@ -1,4 +1,4 @@
-package java_lessons.lesson_4_data_storage_and_processing_part_2.ex_1;
+package java_lessons.lesson_5_data_storage_and_processing_part_2.ex_1;
 
 import java.util.HashMap;
 import java.util.Map;
