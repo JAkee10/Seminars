@@ -22,10 +22,9 @@ public class Main {
 
         List<Hero> teamRed = new ArrayList<>();
         List<Hero> teamBlue = new ArrayList<>();
-
         teamRed = GetListHeroes(0);
-        teamBlue = GetListHeroes(3);
-
+        teamBlue = GetListHeroes(3);        
+        
         System.out.println("Красная команда:");
         teamRed.forEach(n -> System.out.println(n.toString()));
 
