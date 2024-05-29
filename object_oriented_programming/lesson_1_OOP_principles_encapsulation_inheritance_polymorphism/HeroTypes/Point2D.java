@@ -1,4 +1,4 @@
-package object_oriented_programming.lesson_1_OOP_principles_encapsulation_inheritance_polymorphism;
+package object_oriented_programming.lesson_1_OOP_principles_encapsulation_inheritance_polymorphism.HeroTypes;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,7 +7,7 @@ import java.util.Random;
 public class Point2D {
     private static Random rand = new Random();
 
-    protected static List<Integer[]> closedPos = new ArrayList<>();
+    public static List<Integer[]> closedPos = new ArrayList<>();
     
     protected int x, y;
 

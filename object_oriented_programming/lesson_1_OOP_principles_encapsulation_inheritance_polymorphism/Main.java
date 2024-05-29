@@ -4,6 +4,15 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+import object_oriented_programming.lesson_1_OOP_principles_encapsulation_inheritance_polymorphism.HeroTypes.Crossbower;
+import object_oriented_programming.lesson_1_OOP_principles_encapsulation_inheritance_polymorphism.HeroTypes.Hero;
+import object_oriented_programming.lesson_1_OOP_principles_encapsulation_inheritance_polymorphism.HeroTypes.Monk;
+import object_oriented_programming.lesson_1_OOP_principles_encapsulation_inheritance_polymorphism.HeroTypes.Peasant;
+import object_oriented_programming.lesson_1_OOP_principles_encapsulation_inheritance_polymorphism.HeroTypes.Pikeman;
+import object_oriented_programming.lesson_1_OOP_principles_encapsulation_inheritance_polymorphism.HeroTypes.Rogue;
+import object_oriented_programming.lesson_1_OOP_principles_encapsulation_inheritance_polymorphism.HeroTypes.Sniper;
+import object_oriented_programming.lesson_1_OOP_principles_encapsulation_inheritance_polymorphism.HeroTypes.Wizard;
+
 public class Main {
 
     static int teamSize = 10;
@@ -25,10 +34,15 @@ public class Main {
 
     }
 
+/**
+ * Заполнение списка случайными классами героев
+ * @param teamSide - параметр отвечающий за выбор фракции героев (0 - первая фракция, 3 - вторая фракция)
+ * @return Возвращает заполненный List< Hero >
+ */
     static List<Hero> GetListHeroes(int teamSide) {
         List<Hero> result = new ArrayList<>();
         for (int i = 0; i < teamSize; i++) {
-            int key = Hero.rand.nextInt(heroesTypeCount) + teamSide;
+            int key = new Random().nextInt(heroesTypeCount) + teamSide;
             switch (key) {
                 case 0:
                     result.add(new Monk(GetName()));
@@ -56,7 +70,12 @@ public class Main {
         return result;
     }
 
+/**
+ * Использование класса enum
+ * @return String с одним из имен из класса типа enum HeroNames.java
+ */
     static String GetName() {
         return HeroNames.values()[new Random().nextInt(HeroNames.values().length)].name();
     }
+
 }
